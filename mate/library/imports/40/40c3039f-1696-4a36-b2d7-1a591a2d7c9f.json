@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_actionBg_allin",
+    "texture": "80e5812b-3a70-4564-8a50-f6f4a7cdd6a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      72
+    ]
+  }
+}

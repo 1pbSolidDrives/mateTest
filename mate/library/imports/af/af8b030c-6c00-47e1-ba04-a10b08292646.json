@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_btn_choose",
+    "texture": "b75e0f96-6780-45cc-982f-c4e98a7a2cc1",
+    "atlas": "",
+    "rect": [
+      18,
+      12,
+      24,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

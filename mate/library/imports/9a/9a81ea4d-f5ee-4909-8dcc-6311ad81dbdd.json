@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_vip_CommonMPT",
+    "texture": "4ebe8410-245a-400a-8855-f9b43d202b25",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      960,
+      510
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      960,
+      510
+    ]
+  }
+}

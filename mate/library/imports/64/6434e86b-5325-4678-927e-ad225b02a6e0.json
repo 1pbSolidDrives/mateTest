@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_icon_userDealer",
+    "texture": "b6abba02-1a50-4b79-9f4d-7a2462253a68",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      48,
+      51
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

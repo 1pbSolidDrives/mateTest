@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reloadingImg",
+    "texture": "e99ccf28-56cb-4530-9df2-8f2470b95e65",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      134
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_icon_blind",
+    "texture": "a1b9214c-13e2-4c15-963d-bed813a9b742",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      33
+    ]
+  }
+}

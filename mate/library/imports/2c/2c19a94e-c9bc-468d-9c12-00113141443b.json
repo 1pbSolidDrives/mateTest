@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "insuranceOrange",
+    "texture": "5075e9b3-60b9-4772-80ef-9b2a234b64a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      171,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      171
+    ]
+  }
+}

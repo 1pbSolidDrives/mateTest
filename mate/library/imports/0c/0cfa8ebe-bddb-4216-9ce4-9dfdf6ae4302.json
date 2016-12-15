@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_actionBtn_slider",
+    "texture": "bf4a4662-7ed7-4457-ad31-009ca314a0ba",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      106,
+      293
+    ],
+    "offset": [
+      0,
+      93.5
+    ],
+    "originalSize": [
+      108,
+      480
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_silver",
+    "texture": "9f4875c1-5947-40d6-89f3-a7ed1ba6ec63",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      115
+    ]
+  }
+}

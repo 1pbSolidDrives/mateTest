@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_authorizeIcon_always",
+    "texture": "329951c3-13fd-4187-8550-4926f6aa7e73",
+    "atlas": "",
+    "rect": [
+      10,
+      15,
+      40,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

@@ -1,138 +1,70 @@
-2016-12-15T11:48:02.303Z - normal: Load ~/.CocosCreator/settings.json
-2016-12-15T11:48:02.309Z - normal: checking language setting...
-2016-12-15T11:48:02.311Z - normal: Language: zh
-2016-12-15T11:48:02.346Z - success: protocol editor-framework registered
-2016-12-15T11:48:02.346Z - success: protocol app registered
-2016-12-15T11:48:02.346Z - success: protocol packages registered
-2016-12-15T11:48:02.347Z - success: protocol theme registered
-2016-12-15T11:48:02.347Z - success: protocol unpack registerred
-2016-12-15T11:48:02.431Z - normal: connected!
-2016-12-15T11:48:02.435Z - normal: Check project /Users/edz/Downloads/mateTest/mate
-2016-12-15T11:48:02.438Z - normal: Initializing Cocos Creator Editor
-2016-12-15T11:48:02.997Z - normal: Initializing Cocos2d
-2016-12-15T11:48:03.179Z - normal: Initializing Asset Database
-2016-12-15T11:48:03.209Z - success: protocol uuid registerred
-2016-12-15T11:48:03.209Z - success: protocol db registerred
-2016-12-15T11:48:03.209Z - success: protocol thumbnail registerred
-2016-12-15T11:48:03.209Z - normal: Loading editor/builtin packages
-2016-12-15T11:48:03.335Z - success: assets loaded
-2016-12-15T11:48:03.340Z - success: builder loaded
-2016-12-15T11:48:03.349Z - success: hierarchy loaded
-2016-12-15T11:48:03.357Z - success: inspector loaded
-2016-12-15T11:48:03.363Z - success: keystore loaded
-2016-12-15T11:48:03.369Z - success: node-library loaded
-2016-12-15T11:48:03.375Z - success: preferences loaded
-2016-12-15T11:48:03.401Z - success: project-importer loaded
-2016-12-15T11:48:03.406Z - success: project-settings loaded
-2016-12-15T11:48:03.413Z - success: ui-kit loaded
-2016-12-15T11:48:03.418Z - success: ui-grid loaded
-2016-12-15T11:48:03.425Z - success: scene loaded
-2016-12-15T11:48:03.428Z - success: sprite-editor loaded
-2016-12-15T11:48:03.437Z - success: timeline loaded
-2016-12-15T11:48:03.438Z - normal: Loading builtin packages
-2016-12-15T11:48:03.447Z - success: asset-db-debugger loaded
-2016-12-15T11:48:03.450Z - success: cocos-package loaded
-2016-12-15T11:48:03.453Z - success: code-editor loaded
-2016-12-15T11:48:03.454Z - success: color-picker loaded
-2016-12-15T11:48:03.463Z - success: console loaded
-2016-12-15T11:48:03.468Z - success: package-manager loaded
-2016-12-15T11:48:03.472Z - success: tester loaded
-2016-12-15T11:48:03.476Z - success: ui-kit-preview-extra loaded
-2016-12-15T11:48:03.480Z - success: ui-kit-preview loaded
-2016-12-15T11:48:03.485Z - success: ui-tree loaded
-2016-12-15T11:48:03.518Z - normal: Initializing project /Users/edz/Downloads/mateTest/mate
-2016-12-15T11:48:03.520Z - normal: Loading packages
-2016-12-15T11:48:03.538Z - normal: Watching packages
-2016-12-15T11:48:03.556Z - normal: Run Application
-2016-12-15T11:48:04.518Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/new/cppJsTestScene is already in used by /Users/edz/Downloads/mateTest/mate/assets/cppJsTestScene. Assigning a new uuid.
-2016-12-15T11:48:04.518Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/new/cppJsTestScene/helloworld.fire is already in used by /Users/edz/Downloads/mateTest/mate/assets/cppJsTestScene/helloworld.fire. Assigning a new uuid.
-2016-12-15T11:48:04.519Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/new/cppJsTestScene/HelloWorld.js is already in used by /Users/edz/Downloads/mateTest/mate/assets/cppJsTestScene/HelloWorld.js. Assigning a new uuid.
-2016-12-15T11:48:04.519Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/new/cppJsTestScene/HelloWorld.png is already in used by /Users/edz/Downloads/mateTest/mate/assets/cppJsTestScene/HelloWorld.png. Assigning a new uuid.
-2016-12-15T11:48:04.519Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/new/cppJsTestScene/HelloWorld.png/HelloWorld is already in used by /Users/edz/Downloads/mateTest/mate/assets/cppJsTestScene/HelloWorld.png/HelloWorld. Assigning a new uuid.
-2016-12-15T11:48:04.523Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources. Assigning a new uuid.
-2016-12-15T11:48:04.524Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab. Assigning a new uuid.
-2016-12-15T11:48:04.524Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/actionLayout.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/actionLayout.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.524Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/autoLayout.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/autoLayout.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.524Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/backgroundLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/backgroundLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.524Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/backgroundSprite.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/backgroundSprite.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.524Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/chatLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/chatLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.524Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/graybackgroundSprite.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/graybackgroundSprite.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.524Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/setscoreLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/setscoreLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.525Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/shareLayerBtn.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/shareLayerBtn.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.525Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/table.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/table.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.525Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/Roomprefab/titleSprite.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/Roomprefab/titleSprite.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.525Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/script is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/script. Assigning a new uuid.
-2016-12-15T11:48:04.525Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/script/HelloWorld.js is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/script/HelloWorld.js. Assigning a new uuid.
-2016-12-15T11:48:04.526Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/script/HelloWorld.png is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/script/HelloWorld.png. Assigning a new uuid.
-2016-12-15T11:48:04.526Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/script/HelloWorld.png/HelloWorld is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/script/HelloWorld.png/HelloWorld. Assigning a new uuid.
-2016-12-15T11:48:04.526Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab. Assigning a new uuid.
-2016-12-15T11:48:04.526Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/createpartysetLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/createpartysetLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.526Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/createPartyWaiting.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/createPartyWaiting.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.526Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/DingZhuangTestLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/DingZhuangTestLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.526Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/FaGongGongPaiTestLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/FaGongGongPaiTestLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.526Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/FaShouPaiTestLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/FaShouPaiTestLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.527Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/joinGameLoadingLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/joinGameLoadingLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.527Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/loadingGame.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/loadingGame.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.527Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/LoginScene.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/LoginScene.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.527Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/main.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/main.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.527Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/MTTSNGWaiting.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/MTTSNGWaiting.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.527Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/myTurnLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/myTurnLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.527Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/otherTurnLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/otherTurnLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.527Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/partyChackSportsPartyinfoLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/partyChackSportsPartyinfoLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/partyCreatePartyLoadingLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/partyCreatePartyLoadingLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/partyCreateSetLayer2.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/partyCreateSetLayer2.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/partyLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/partyLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/partyLoadingPartyLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/partyLoadingPartyLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/partyRoomOverLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/partyRoomOverLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/partyScene.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/partyScene.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/partySetLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/partySetLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/playerHeadLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/playerHeadLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/playerHeadModel.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/playerHeadModel.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.528Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/playerHeadTestLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/playerHeadTestLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.529Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/roomWaitingLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/roomWaitingLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.529Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/safestLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/safestLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.529Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/Settlement.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/Settlement.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.529Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/resources/TestProfab/statementsLayer.prefab is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/resources/TestProfab/statementsLayer.prefab. Assigning a new uuid.
-2016-12-15T11:48:04.529Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts. Assigning a new uuid.
-2016-12-15T11:48:04.530Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/1.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/1.gif. Assigning a new uuid.
-2016-12-15T11:48:04.531Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/2.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/2.gif. Assigning a new uuid.
-2016-12-15T11:48:04.531Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/3.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/3.gif. Assigning a new uuid.
-2016-12-15T11:48:04.531Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/4.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/4.gif. Assigning a new uuid.
-2016-12-15T11:48:04.531Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/angry.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/angry.gif. Assigning a new uuid.
-2016-12-15T11:48:04.531Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/fish.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/fish.gif. Assigning a new uuid.
-2016-12-15T11:48:04.532Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/haha.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/haha.gif. Assigning a new uuid.
-2016-12-15T11:48:04.532Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/head.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/head.gif. Assigning a new uuid.
-2016-12-15T11:48:04.532Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/ji.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/ji.gif. Assigning a new uuid.
-2016-12-15T11:48:04.532Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/like.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/like.gif. Assigning a new uuid.
-2016-12-15T11:48:04.532Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/love.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/love.gif. Assigning a new uuid.
-2016-12-15T11:48:04.533Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/sad.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/sad.gif. Assigning a new uuid.
-2016-12-15T11:48:04.533Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/shit.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/shit.gif. Assigning a new uuid.
-2016-12-15T11:48:04.534Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/wow.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/wow.gif. Assigning a new uuid.
-2016-12-15T11:48:04.534Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/scripts/P9/image/zan.gif is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/scripts/P9/image/zan.gif. Assigning a new uuid.
-2016-12-15T11:48:04.534Z - failed: [db-task][init] uuid collision, the uuid for /Users/edz/Downloads/mateTest/mate/assets/table.anim is already in used by /Users/edz/Downloads/mateTest/mate/assets/new/table.anim. Assigning a new uuid.
-2016-12-15T11:48:06.342Z - failed: [db-task][init] path collision, the path for bcde28a1-571f-4684-8d44-e83b28b51a55 is already in used by bcde28a1-571f-4684-8d44-e83b28b51a55. Assigning a new path.
-2016-12-15T11:48:06.459Z - failed: [db-task][init] path collision, the path for 511967ba-7840-4711-b5bc-b608b7cd239a is already in used by 511967ba-7840-4711-b5bc-b608b7cd239a. Assigning a new path.
-2016-12-15T11:48:24.020Z - success: preview server running at http://localhost:7456
-2016-12-15T11:48:24.021Z - normal: Compiling scripts...
-2016-12-15T11:48:25.925Z - error: Compile error: Filename conflict, the module "loginScript" both defined in "scripts/P9/context/Login/loginScript.js" and "new/scripts/P9/context/Login/loginScript.js"
-    at Stream.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3381)
-    at Stream.stream.write (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/through/index.js:26:11)
+2016-12-15T12:15:20.433Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-15T12:15:20.438Z - normal: checking language setting...
+2016-12-15T12:15:20.438Z - normal: Language: zh
+2016-12-15T12:15:20.467Z - success: protocol editor-framework registered
+2016-12-15T12:15:20.468Z - success: protocol app registered
+2016-12-15T12:15:20.468Z - success: protocol packages registered
+2016-12-15T12:15:20.468Z - success: protocol theme registered
+2016-12-15T12:15:20.468Z - success: protocol unpack registerred
+2016-12-15T12:15:20.532Z - normal: connected!
+2016-12-15T12:15:20.536Z - normal: Check project /Users/mac/mateTest/mate
+2016-12-15T12:15:20.538Z - normal: Initializing Cocos Creator Editor
+2016-12-15T12:15:22.176Z - normal: Initializing Cocos2d
+2016-12-15T12:15:22.980Z - normal: Initializing Asset Database
+2016-12-15T12:15:23.050Z - success: protocol uuid registerred
+2016-12-15T12:15:23.050Z - success: protocol db registerred
+2016-12-15T12:15:23.050Z - success: protocol thumbnail registerred
+2016-12-15T12:15:23.051Z - normal: Loading editor/builtin packages
+2016-12-15T12:15:23.350Z - success: assets loaded
+2016-12-15T12:15:23.355Z - success: builder loaded
+2016-12-15T12:15:23.361Z - success: hierarchy loaded
+2016-12-15T12:15:23.367Z - success: inspector loaded
+2016-12-15T12:15:23.381Z - success: keystore loaded
+2016-12-15T12:15:23.389Z - success: node-library loaded
+2016-12-15T12:15:23.394Z - success: preferences loaded
+2016-12-15T12:15:23.424Z - success: project-importer loaded
+2016-12-15T12:15:23.429Z - success: project-settings loaded
+2016-12-15T12:15:23.433Z - success: ui-kit loaded
+2016-12-15T12:15:23.464Z - success: ui-grid loaded
+2016-12-15T12:15:23.478Z - success: scene loaded
+2016-12-15T12:15:23.479Z - success: sprite-editor loaded
+2016-12-15T12:15:23.488Z - success: timeline loaded
+2016-12-15T12:15:23.488Z - normal: Loading builtin packages
+2016-12-15T12:15:23.517Z - success: asset-db-debugger loaded
+2016-12-15T12:15:23.519Z - success: cocos-package loaded
+2016-12-15T12:15:23.521Z - success: code-editor loaded
+2016-12-15T12:15:23.531Z - success: color-picker loaded
+2016-12-15T12:15:23.546Z - success: console loaded
+2016-12-15T12:15:23.551Z - success: package-manager loaded
+2016-12-15T12:15:23.556Z - success: tester loaded
+2016-12-15T12:15:23.559Z - success: ui-kit-preview-extra loaded
+2016-12-15T12:15:23.562Z - success: ui-kit-preview loaded
+2016-12-15T12:15:23.566Z - success: ui-tree loaded
+2016-12-15T12:15:23.690Z - normal: Initializing project /Users/mac/mateTest/mate
+2016-12-15T12:15:23.704Z - warn: Profile local-local warning: reset profile field: last-edit
+2016-12-15T12:15:23.712Z - normal: Loading packages
+2016-12-15T12:15:23.716Z - normal: Watching packages
+2016-12-15T12:15:23.729Z - normal: Run Application
+2016-12-15T12:15:30.824Z - success: preview server running at http://localhost:7457
+2016-12-15T12:15:30.824Z - normal: Compiling scripts...
+2016-12-15T12:15:33.156Z - error: Compile error: Filename conflict, the module "masterlevelScript" both defined in "scripts/A/context/my/masterlevel/masterlevelScript.js" and "new/scripts/P9/context/my/masterlevel/masterlevelScript.js"
+    at Stream.<anonymous> (/Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3381)
+    at Stream.stream.write (/Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/node_modules/through/index.js:26:11)
     at Stream.ondata (stream.js:31:26)
     at emitOne (events.js:96:13)
     at Stream.emit (events.js:188:7)
-    at queueData (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:43:21)
-    at next (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:71:7)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:85:7
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:2908
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:2080
-    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:869)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
-    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
-    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1262)
+    at queueData (/Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:43:21)
+    at next (/Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:71:7)
+    at /Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:85:7
+    at /Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:2908
+    at /Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:2080
+    at Object.callback (/Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:869)
+    at /Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1262)
     at BrowserWindow.g (events.js:286:16)
     at emitOne (events.js:101:20)
     at BrowserWindow.emit (events.js:188:7)
-2016-12-15T11:48:30.310Z - normal: 1.3.1
-2016-12-15T11:48:30.594Z - warn: The id already added in the tree: abdd9801-011a-43e8-a0dd-dc3d00713044
+2016-12-15T12:15:37.895Z - normal: 1.3.1

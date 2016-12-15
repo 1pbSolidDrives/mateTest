@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_sngTitle",
+    "texture": "82a71302-21b4-4c86-83f1-6cbbd0099023",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      167,
+      70
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      167,
+      71
+    ]
+  }
+}

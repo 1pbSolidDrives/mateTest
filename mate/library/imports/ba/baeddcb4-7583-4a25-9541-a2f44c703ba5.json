@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "transparent_blank",
+    "texture": "8a9b299f-ca3f-43aa-9e1f-7ee9966ed36f",
+    "atlas": "",
+    "rect": [
+      100,
+      100,
+      0,
+      0
+    ],
+    "offset": [
+      50,
+      -50
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

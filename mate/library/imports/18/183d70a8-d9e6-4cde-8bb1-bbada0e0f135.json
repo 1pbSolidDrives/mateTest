@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "navigationBar_btn_share",
+    "texture": "924fb019-a15c-4054-bb51-8f73203ec402",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      57,
+      57
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

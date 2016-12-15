@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_menuBtn_exit",
+    "texture": "bce25941-7f7d-4707-899f-2165c520bc25",
+    "atlas": "",
+    "rect": [
+      10,
+      10,
+      52,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      72
+    ]
+  }
+}

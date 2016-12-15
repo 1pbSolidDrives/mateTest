@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tabBar_activeBtn_profile",
+    "texture": "36b0feb6-8c3d-4c77-93c7-cca821282d1e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      63
+    ],
+    "offset": [
+      0,
+      4.5
+    ],
+    "originalSize": [
+      72,
+      72
+    ]
+  }
+}

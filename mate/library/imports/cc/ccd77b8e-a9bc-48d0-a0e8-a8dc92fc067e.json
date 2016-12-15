@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_icon_userAllin_small",
+    "texture": "61d42f7c-68e5-4d36-a844-f65b99e21b04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      48
+    ]
+  }
+}

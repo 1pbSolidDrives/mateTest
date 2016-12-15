@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sngGameIcon",
+    "texture": "bd7a1ee9-2bc3-4a64-baa6-fead9966990a",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      440,
+      175
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      441,
+      176
+    ]
+  }
+}

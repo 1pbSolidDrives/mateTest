@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shit",
+    "texture": "a1adfd74-2e0b-42e4-b047-54d0c7034019",
+    "atlas": "",
+    "rect": [
+      41,
+      42,
+      198,
+      184
+    ],
+    "offset": [
+      1.5,
+      -15.5
+    ],
+    "originalSize": [
+      277,
+      237
+    ]
+  }
+}
