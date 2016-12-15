@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5100f994-7847-41c5-9493-ac092789bb0e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Custom24": {
+      "ver": "1.0.3",
+      "uuid": "e99737eb-f0d6-4f0d-a31b-54e755db1726",
+      "rawTextureUuid": "5100f994-7847-41c5-9493-ac092789bb0e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 72,
+      "height": 72,
+      "rawWidth": 72,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
