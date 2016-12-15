@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_userChips",
+    "texture": "fdbe7505-d1b3-43a4-8b7c-af660a75fd6e",
+    "atlas": "",
+    "rect": [
+      12,
+      13,
+      36,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

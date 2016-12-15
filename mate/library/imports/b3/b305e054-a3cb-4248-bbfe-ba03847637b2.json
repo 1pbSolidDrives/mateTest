@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_userIcon_admin",
+    "texture": "c504d230-0fcc-4c2e-b965-c8bafb4674e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      39
+    ]
+  }
+}

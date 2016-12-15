@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_playChips",
+    "texture": "84f98245-cd1d-4be2-9e5b-c87e60eb13e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      33
+    ]
+  }
+}

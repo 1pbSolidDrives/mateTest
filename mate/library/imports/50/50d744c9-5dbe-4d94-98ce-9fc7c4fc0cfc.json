@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_btn_Overtime",
+    "texture": "4f8a0be9-107f-48e6-bb46-26a5f0472b51",
+    "atlas": "",
+    "rect": [
+      10,
+      0,
+      51,
+      72
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      72,
+      72
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toolbar_btn_back",
+    "texture": "3637a5d5-d9e9-4a59-9e78-d6b075b62d29",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      60,
+      53
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

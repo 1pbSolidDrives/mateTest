@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "circlebg",
+    "texture": "1763e3cb-33e1-4764-a316-734dabcd1cbe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      264,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      264,
+      144
+    ]
+  }
+}

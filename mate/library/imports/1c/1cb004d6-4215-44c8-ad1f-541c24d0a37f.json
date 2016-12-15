@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "share_regularBg_sng",
+    "texture": "77b4450f-c129-4f81-b621-c66ba83fd5fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      927,
+      843
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      927,
+      843
+    ]
+  }
+}

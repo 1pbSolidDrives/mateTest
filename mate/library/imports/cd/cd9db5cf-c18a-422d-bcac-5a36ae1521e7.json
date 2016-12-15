@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_icon_male",
+    "texture": "f31477d1-734b-4fcf-acf8-c15030bfbff8",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      36,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      48
+    ]
+  }
+}

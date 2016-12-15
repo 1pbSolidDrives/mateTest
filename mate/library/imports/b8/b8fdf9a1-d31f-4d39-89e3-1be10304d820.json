@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_icon_female",
+    "texture": "2e2087f1-99bf-4a39-b617-3260867ec99d",
+    "atlas": "",
+    "rect": [
+      10,
+      6,
+      28,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      48
+    ]
+  }
+}

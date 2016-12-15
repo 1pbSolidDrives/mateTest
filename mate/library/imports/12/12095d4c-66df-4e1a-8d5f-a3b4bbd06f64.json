@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_Btn_eyeClosed",
+    "texture": "5e7ba91c-cc80-4d8c-ad44-96dd6044bef0",
+    "atlas": "",
+    "rect": [
+      0,
+      9,
+      60,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

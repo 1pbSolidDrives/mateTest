@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_icon_userChips",
+    "texture": "3272f4f3-72a6-4b83-a7a6-a0288c8381a6",
+    "atlas": "",
+    "rect": [
+      12,
+      13,
+      36,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

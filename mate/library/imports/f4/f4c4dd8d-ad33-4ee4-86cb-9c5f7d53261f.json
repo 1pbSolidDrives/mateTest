@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_disabledBtn_add",
+    "texture": "93589d35-222f-4cf6-b2c8-bb1c72b2593d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      84
+    ]
+  }
+}

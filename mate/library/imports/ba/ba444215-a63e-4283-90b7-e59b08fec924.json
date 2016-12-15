@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_pic_blankSpaceLight",
+    "texture": "d666fd0d-48ee-4db6-931f-332c6c0f435b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      360,
+      258
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      360,
+      258
+    ]
+  }
+}

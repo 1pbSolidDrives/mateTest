@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_disabledBtn_subtract",
+    "texture": "f004e27c-7c12-4068-a0f0-7401017442be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      84
+    ]
+  }
+}

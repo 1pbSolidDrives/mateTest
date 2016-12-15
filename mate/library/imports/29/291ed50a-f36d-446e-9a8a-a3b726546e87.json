@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_profileAlert_back",
+    "texture": "efbea9f7-66a7-4f07-bb25-ac9a4490b7d1",
+    "atlas": "",
+    "rect": [
+      16,
+      4,
+      28,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

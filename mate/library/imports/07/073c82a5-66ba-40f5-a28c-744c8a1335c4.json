@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signuped",
+    "texture": "41528491-6e08-4576-98b2-88d7098f6f78",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      330,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      141
+    ]
+  }
+}

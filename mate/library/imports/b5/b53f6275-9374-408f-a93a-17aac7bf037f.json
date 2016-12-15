@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ticket",
+    "texture": "a4ff1388-acca-428f-8bf4-d1a0b282af58",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      241,
+      240
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      243,
+      240
+    ]
+  }
+}

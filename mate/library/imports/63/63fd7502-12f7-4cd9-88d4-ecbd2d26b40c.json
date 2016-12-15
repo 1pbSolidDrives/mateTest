@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_Btn_mic",
+    "texture": "98e9ed44-f3f5-4318-8736-755d011ab277",
+    "atlas": "",
+    "rect": [
+      9,
+      0,
+      54,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      72
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "addTime",
+    "texture": "8c36a82b-73f8-4673-8f24-267c6a245534",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      74
+    ]
+  }
+}

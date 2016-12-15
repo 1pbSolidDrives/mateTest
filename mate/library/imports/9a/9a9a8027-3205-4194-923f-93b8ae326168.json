@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_cardIcon_sng",
+    "texture": "790387af-04c0-47c0-bace-39c6dd2d9a6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      54
+    ]
+  }
+}

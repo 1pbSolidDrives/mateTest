@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_voiceDownBtn_others",
+    "texture": "7ec38590-e586-4238-85ef-83e2c8455cf2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      129,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      108
+    ]
+  }
+}
