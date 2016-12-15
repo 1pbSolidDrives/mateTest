@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_pokerPic_d2",
+    "texture": "1095c81c-a74b-41f1-9f60-a40ead30fe04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      159
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zan",
+    "texture": "fafba224-750c-4591-81cf-cf94b849e3fb",
+    "atlas": "",
+    "rect": [
+      83,
+      97,
+      88,
+      87
+    ],
+    "offset": [
+      -11.5,
+      -22
+    ],
+    "originalSize": [
+      277,
+      237
+    ]
+  }
+}

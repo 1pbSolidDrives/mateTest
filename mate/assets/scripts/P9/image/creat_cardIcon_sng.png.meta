@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "7d51be99-07c1-4d57-afde-957f3a785b41",
+  "uuid": "2bb84b05-8308-49f3-b92b-1b0fb7841827",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "creat_cardIcon_sng": {
       "ver": "1.0.3",
-      "uuid": "018e704f-c433-44b8-aac7-5cfc5546034f",
-      "rawTextureUuid": "7d51be99-07c1-4d57-afde-957f3a785b41",
+      "uuid": "5cf843e0-3086-40e9-9ab3-7919e9d3dc81",
+      "rawTextureUuid": "2bb84b05-8308-49f3-b92b-1b0fb7841827",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

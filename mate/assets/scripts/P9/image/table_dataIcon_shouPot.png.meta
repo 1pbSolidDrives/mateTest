@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "ae56e0bc-48cc-44d2-9edd-e8a435dba4be",
+  "uuid": "5add4a19-bd64-46ab-9005-0d5c5922d6f4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "table_dataIcon_shouPot": {
       "ver": "1.0.3",
-      "uuid": "605014ca-3dbc-4a31-9955-651d207e20be",
-      "rawTextureUuid": "ae56e0bc-48cc-44d2-9edd-e8a435dba4be",
+      "uuid": "b4327a54-e4dd-4cd1-906c-28002a86077c",
+      "rawTextureUuid": "5add4a19-bd64-46ab-9005-0d5c5922d6f4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

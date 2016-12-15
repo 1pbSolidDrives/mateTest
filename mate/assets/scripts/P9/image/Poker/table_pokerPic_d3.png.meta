@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "c90697b7-ba39-4f81-b9b1-7840fe866535",
+  "uuid": "7931d25e-6c24-48f4-85bd-2269bfd1ff81",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "table_pokerPic_d3": {
       "ver": "1.0.3",
-      "uuid": "6e665f78-a0f8-4b66-8588-7ff09270577c",
-      "rawTextureUuid": "c90697b7-ba39-4f81-b9b1-7840fe866535",
+      "uuid": "921acdbe-792c-4033-a169-e6ba7723ad0a",
+      "rawTextureUuid": "7931d25e-6c24-48f4-85bd-2269bfd1ff81",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

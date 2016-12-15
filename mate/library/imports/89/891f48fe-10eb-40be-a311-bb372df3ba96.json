@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "share_logo_vip",
+    "texture": "efacbe49-8470-4459-aed4-04bdf062e330",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      457,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      459,
+      72
+    ]
+  }
+}

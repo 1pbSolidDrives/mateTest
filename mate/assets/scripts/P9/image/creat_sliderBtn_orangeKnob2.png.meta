@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "7b76afdb-7176-443e-8e04-7837ba6faad4",
+  "uuid": "24598140-ac3b-4a91-bc73-85655081403f",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "creat_sliderBtn_orangeKnob2": {
       "ver": "1.0.3",
-      "uuid": "d58eea85-1f5e-4c40-892f-d18661970d2a",
-      "rawTextureUuid": "7b76afdb-7176-443e-8e04-7837ba6faad4",
+      "uuid": "75c96335-091d-4959-9949-aece2d392299",
+      "rawTextureUuid": "24598140-ac3b-4a91-bc73-85655081403f",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

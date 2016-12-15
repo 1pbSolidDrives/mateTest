@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mtt",
+    "texture": "4a66bc4d-25ac-4d1d-8ac5-eea9b3d03bb2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      36
+    ]
+  }
+}

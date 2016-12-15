@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "contact",
+    "texture": "54a3d0e7-cd9e-4c45-abfa-eee996dac708",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      336,
+      234
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      336,
+      234
+    ]
+  }
+}

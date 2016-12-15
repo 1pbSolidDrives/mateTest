@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "ccf74794-0f38-4396-ae89-6ef47a8f866a",
+  "uuid": "47aac34d-584a-4dac-b15b-560dbb11931f",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "table_dataIcon_bigFish": {
       "ver": "1.0.3",
-      "uuid": "6091e9e3-cb69-495e-9f1a-90722000042b",
-      "rawTextureUuid": "ccf74794-0f38-4396-ae89-6ef47a8f866a",
+      "uuid": "a58c097a-083a-48ad-b330-7629b3110b0b",
+      "rawTextureUuid": "47aac34d-584a-4dac-b15b-560dbb11931f",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "611a4e38-858f-4264-be66-5fad439f251b",
+  "uuid": "a65484eb-2993-4954-81d3-9f48705ec2cd",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "wow": {
       "ver": "1.0.3",
-      "uuid": "f4aed1c4-3dcd-407c-a7a8-c5749e7e745d",
-      "rawTextureUuid": "611a4e38-858f-4264-be66-5fad439f251b",
+      "uuid": "62a5df02-997c-4b1a-97c1-db50fd91496e",
+      "rawTextureUuid": "a65484eb-2993-4954-81d3-9f48705ec2cd",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

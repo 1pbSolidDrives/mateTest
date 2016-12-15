@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "25c3c6ed-7363-4926-ada4-5e82840d31ea",
+  "uuid": "6590864d-188f-4ac1-9e66-a65a96a28ef1",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "sngGameIcon": {
       "ver": "1.0.3",
-      "uuid": "a1453e3e-c406-462c-811f-3cc14a0e4748",
-      "rawTextureUuid": "25c3c6ed-7363-4926-ada4-5e82840d31ea",
+      "uuid": "8b60090b-57e6-4df7-9a2c-35b56f7af546",
+      "rawTextureUuid": "6590864d-188f-4ac1-9e66-a65a96a28ef1",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

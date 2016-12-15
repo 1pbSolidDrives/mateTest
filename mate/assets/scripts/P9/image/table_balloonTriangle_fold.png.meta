@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "d8c751f6-1fc9-48e9-8555-0ceff25843cf",
+  "uuid": "75643a35-f3ab-4ad1-8948-f80cf9247039",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "table_balloonTriangle_fold": {
       "ver": "1.0.3",
-      "uuid": "e459a888-4168-4448-8d96-aec8b6a2e603",
-      "rawTextureUuid": "d8c751f6-1fc9-48e9-8555-0ceff25843cf",
+      "uuid": "07e7f243-bfa8-4d66-9f6b-7827ad0e83d4",
+      "rawTextureUuid": "75643a35-f3ab-4ad1-8948-f80cf9247039",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

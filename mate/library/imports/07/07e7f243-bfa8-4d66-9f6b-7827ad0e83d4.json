@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_balloonTriangle_fold",
+    "texture": "75643a35-f3ab-4ad1-8948-f80cf9247039",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      18,
+      9
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      18,
+      9
+    ]
+  }
+}

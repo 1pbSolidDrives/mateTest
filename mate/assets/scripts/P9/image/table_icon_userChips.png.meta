@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "ad37605f-5c18-43fc-9fa5-8b4eb26a4a9f",
+  "uuid": "7cc04b3f-eddd-4238-881d-5b32e5c6ba31",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "table_icon_userChips": {
       "ver": "1.0.3",
-      "uuid": "72af3161-fd69-4aa6-a792-aa50b5fc3b48",
-      "rawTextureUuid": "ad37605f-5c18-43fc-9fa5-8b4eb26a4a9f",
+      "uuid": "9444068c-735b-4448-8f97-26909404e9bd",
+      "rawTextureUuid": "7cc04b3f-eddd-4238-881d-5b32e5c6ba31",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

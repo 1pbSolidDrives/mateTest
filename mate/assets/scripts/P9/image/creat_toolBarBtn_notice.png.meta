@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "04abe140-3d37-4ee7-bb95-b5df0dc5bafe",
+  "uuid": "49bba095-af29-4678-a901-9951e9dea533",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "creat_toolBarBtn_notice": {
       "ver": "1.0.3",
-      "uuid": "3710de20-a0ab-43bd-8c74-a400b7312413",
-      "rawTextureUuid": "04abe140-3d37-4ee7-bb95-b5df0dc5bafe",
+      "uuid": "0cced6e2-6a2e-4cf4-b21e-eba31681210d",
+      "rawTextureUuid": "49bba095-af29-4678-a901-9951e9dea533",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

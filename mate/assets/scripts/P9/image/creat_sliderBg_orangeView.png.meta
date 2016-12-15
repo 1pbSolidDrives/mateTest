@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "2c29f63f-4b04-4015-85ac-46c437c6d62f",
+  "uuid": "e3247fee-c4cf-49ca-b31a-45aac524d8c5",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "creat_sliderBg_orangeView": {
       "ver": "1.0.3",
-      "uuid": "c7009300-8a46-4f1f-9c9c-75b19b390bdc",
-      "rawTextureUuid": "2c29f63f-4b04-4015-85ac-46c437c6d62f",
+      "uuid": "7508bc07-e440-466e-9587-0b4fecf908d3",
+      "rawTextureUuid": "e3247fee-c4cf-49ca-b31a-45aac524d8c5",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

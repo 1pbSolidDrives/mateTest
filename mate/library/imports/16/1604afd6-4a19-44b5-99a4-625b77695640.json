@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_voiceBtn_myself",
+    "texture": "8fdbd5e4-8103-418b-a863-dc20658fd523",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      129,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      108
+    ]
+  }
+}

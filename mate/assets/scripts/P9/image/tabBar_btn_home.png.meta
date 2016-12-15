@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "c625b1d3-586f-45d5-af7b-d482cf76157b",
+  "uuid": "95585d6c-2ffc-4d3b-9250-9491a953c13d",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "tabBar_btn_home": {
       "ver": "1.0.3",
-      "uuid": "eb67adfd-04fb-45e5-82fc-852f64f6bd05",
-      "rawTextureUuid": "c625b1d3-586f-45d5-af7b-d482cf76157b",
+      "uuid": "eb27dee5-2298-490e-81c4-8b18847bf9ce",
+      "rawTextureUuid": "95585d6c-2ffc-4d3b-9250-9491a953c13d",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

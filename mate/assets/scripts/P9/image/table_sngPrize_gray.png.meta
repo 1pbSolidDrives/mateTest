@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "a5f560e0-4bf9-498f-b9e0-5b056a29ec42",
+  "uuid": "50d3e0fc-cbdc-4c4e-a2e7-36d31000ff50",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "table_sngPrize_gray": {
       "ver": "1.0.3",
-      "uuid": "ace0f217-7cc8-4b25-b109-02f39cc9a68d",
-      "rawTextureUuid": "a5f560e0-4bf9-498f-b9e0-5b056a29ec42",
+      "uuid": "35c9d04d-d101-44f0-b2ad-bb474b1ef286",
+      "rawTextureUuid": "50d3e0fc-cbdc-4c4e-a2e7-36d31000ff50",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

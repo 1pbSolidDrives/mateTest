@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "888004e0-7f71-48ae-b3be-0974c8a64350",
+  "uuid": "b644ca44-cdaf-430b-b620-162eee1fb6f0",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "creat_btn_subtract": {
       "ver": "1.0.3",
-      "uuid": "dc25c749-f288-49af-9308-07afb450e6b0",
-      "rawTextureUuid": "888004e0-7f71-48ae-b3be-0974c8a64350",
+      "uuid": "64efb07b-28d0-4515-a52a-3c2577850553",
+      "rawTextureUuid": "b644ca44-cdaf-430b-b620-162eee1fb6f0",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

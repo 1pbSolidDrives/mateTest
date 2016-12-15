@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "fcece0a9-1de1-4d8a-bb35-d1ee11987b3b",
+  "uuid": "bc225939-133d-4382-ace4-60199b103a90",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "share_DownBtn_weibo": {
       "ver": "1.0.3",
-      "uuid": "52fa2a8b-2f64-4716-9973-88f6d6569fed",
-      "rawTextureUuid": "fcece0a9-1de1-4d8a-bb35-d1ee11987b3b",
+      "uuid": "5f7cacf6-cc8b-46d7-92f9-ebe58d9224ae",
+      "rawTextureUuid": "bc225939-133d-4382-ace4-60199b103a90",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

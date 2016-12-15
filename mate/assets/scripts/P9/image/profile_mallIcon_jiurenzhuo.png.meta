@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "2cc96890-d811-4233-a40b-fef8f1381a2e",
+  "uuid": "713255b6-81da-4755-bd66-25b7cea2f241",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "profile_mallIcon_jiurenzhuo": {
       "ver": "1.0.3",
-      "uuid": "e883efd9-e137-45f3-ab31-fcc7ce6b5330",
-      "rawTextureUuid": "2cc96890-d811-4233-a40b-fef8f1381a2e",
+      "uuid": "3ba6db55-101d-47ad-95fc-f6af2f71d6b7",
+      "rawTextureUuid": "713255b6-81da-4755-bd66-25b7cea2f241",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

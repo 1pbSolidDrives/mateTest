@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "a9428327-49ad-480d-83d8-e7adcd907beb",
+  "uuid": "503fc853-44b5-4575-a6a4-3c3f0644d3fc",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "table_playChips": {
       "ver": "1.0.3",
-      "uuid": "413d2fe0-c0a6-4cba-9d2f-81b926245a37",
-      "rawTextureUuid": "a9428327-49ad-480d-83d8-e7adcd907beb",
+      "uuid": "63954e8c-10a6-4cf9-b05d-197a0006c32e",
+      "rawTextureUuid": "503fc853-44b5-4575-a6a4-3c3f0644d3fc",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

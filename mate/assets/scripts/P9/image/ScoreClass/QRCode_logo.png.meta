@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "e5a6e783-4413-48ef-a38a-79c2cc8af39b",
+  "uuid": "77f7bc26-465d-492c-ac64-6b78e1d32f17",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "QRCode_logo": {
       "ver": "1.0.3",
-      "uuid": "9eb1b4b6-f2bd-43fc-9cc3-41e69fa06d92",
-      "rawTextureUuid": "e5a6e783-4413-48ef-a38a-79c2cc8af39b",
+      "uuid": "bee9a604-b88d-4133-8999-5af6a73fb492",
+      "rawTextureUuid": "77f7bc26-465d-492c-ac64-6b78e1d32f17",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

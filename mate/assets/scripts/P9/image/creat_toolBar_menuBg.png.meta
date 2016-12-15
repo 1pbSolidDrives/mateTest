@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "5ad32db0-9daa-452f-9310-34120a884fd7",
+  "uuid": "23aff8fe-0638-4d45-a8d3-892d2124708d",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "creat_toolBar_menuBg": {
       "ver": "1.0.3",
-      "uuid": "15e1cacc-bb2b-4b2d-b665-7fe99115965e",
-      "rawTextureUuid": "5ad32db0-9daa-452f-9310-34120a884fd7",
+      "uuid": "1905779a-324a-4ad8-bfc6-ceaa862d70dc",
+      "rawTextureUuid": "23aff8fe-0638-4d45-a8d3-892d2124708d",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

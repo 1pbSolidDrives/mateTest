@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_sliderBtn_redKnob",
+    "texture": "db74e510-2245-47ad-9bc6-d6b54a132dae",
+    "atlas": "",
+    "rect": [
+      60,
+      60,
+      120,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      240
+    ]
+  }
+}

@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "f1871001-b4ec-47ef-80e6-6c721cfacdee",
+  "uuid": "8fdbd5e4-8103-418b-a863-dc20658fd523",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "creat_voiceBtn_myself": {
       "ver": "1.0.3",
-      "uuid": "865c605a-a221-4eee-845a-28015bd1c857",
-      "rawTextureUuid": "f1871001-b4ec-47ef-80e6-6c721cfacdee",
+      "uuid": "1604afd6-4a19-44b5-99a4-625b77695640",
+      "rawTextureUuid": "8fdbd5e4-8103-418b-a863-dc20658fd523",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_sngPrize_2st",
+    "texture": "05bf419d-2dd9-4916-9faa-c58e6daa2dc3",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      296,
+      236
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      300,
+      240
+    ]
+  }
+}

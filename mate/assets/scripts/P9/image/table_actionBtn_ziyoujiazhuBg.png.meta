@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "d2cee206-82e2-4397-8bec-2f6c82f15448",
+  "uuid": "be78e373-5b70-4a87-9c57-cd71e7e45596",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "table_actionBtn_ziyoujiazhuBg": {
       "ver": "1.0.3",
-      "uuid": "4c81be51-7e94-4e53-98d7-606992371b59",
-      "rawTextureUuid": "d2cee206-82e2-4397-8bec-2f6c82f15448",
+      "uuid": "de098f23-4a07-4c38-83e5-b1db98f3ed14",
+      "rawTextureUuid": "be78e373-5b70-4a87-9c57-cd71e7e45596",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

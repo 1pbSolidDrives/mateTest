@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "3c5dd657-563a-4a0f-9461-c0ce5e6568e1",
+  "uuid": "8097a6b8-5eb6-4596-b406-c9cc6fb858dd",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "share_vipIcon_sng": {
       "ver": "1.0.3",
-      "uuid": "0dab5eab-76aa-4a31-b22a-19be910ae2b7",
-      "rawTextureUuid": "3c5dd657-563a-4a0f-9461-c0ce5e6568e1",
+      "uuid": "47b480a1-9097-4127-8ddc-9f1701a78b05",
+      "rawTextureUuid": "8097a6b8-5eb6-4596-b406-c9cc6fb858dd",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

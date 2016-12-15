@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "98c512db-ae6f-4e4e-ae80-e0a479e83d2a",
+  "uuid": "b7a7ae73-bdbb-4239-b72e-22b20ae978dc",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "profile_messageIcon_system": {
       "ver": "1.0.3",
-      "uuid": "5698b3d1-4ed1-4118-bca6-df10a9583837",
-      "rawTextureUuid": "98c512db-ae6f-4e4e-ae80-e0a479e83d2a",
+      "uuid": "e9e08d2d-71e5-416b-820c-4ab4d895519d",
+      "rawTextureUuid": "b7a7ae73-bdbb-4239-b72e-22b20ae978dc",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "ee0241cf-a530-40f1-8eac-e70d88aadf57",
+  "uuid": "aa8d2ac3-c3a7-414d-a301-b0b3dd7bbcb4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "table_dataIcon_tuhao": {
       "ver": "1.0.3",
-      "uuid": "8acc2413-ec6b-48ae-a2d0-b981d393452f",
-      "rawTextureUuid": "ee0241cf-a530-40f1-8eac-e70d88aadf57",
+      "uuid": "2e7eee7e-5d24-45a8-83b5-4c17ce042927",
+      "rawTextureUuid": "aa8d2ac3-c3a7-414d-a301-b0b3dd7bbcb4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

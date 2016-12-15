@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "b433a112-8124-41cd-b363-c16ab23bff3f",
+  "uuid": "f30be0d6-d657-4c9d-a8fb-71ff514c7dfd",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
     "profile_mallIcon_mascot": {
       "ver": "1.0.3",
-      "uuid": "f5421c3d-340e-4a68-ac31-fbc144c355f2",
-      "rawTextureUuid": "b433a112-8124-41cd-b363-c16ab23bff3f",
+      "uuid": "459c63cd-6dfb-4b4b-b2af-1e9507a60822",
+      "rawTextureUuid": "f30be0d6-d657-4c9d-a8fb-71ff514c7dfd",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
