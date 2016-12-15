@@ -1,11 +1,5 @@
-"use strict";
-cc._RFpush(module, '8cecetzgeFNzL6MEU9gXc+h', 'invitationcodeScript');
-// scripts/P9/context/my/invitationcode/invitationcodeScript.js
-
-//邀请码
-var MVC = require("FWS_MVC");
 cc.Class({
-    "extends": MVC.FMessageConnection,
+    "extends": cc.Component,
 
     properties: {
         // foo: {
@@ -21,21 +15,10 @@ cc.Class({
     },
 
     // use this for initialization
-    onLoad: function onLoad() {
-        //加载的时候要与消息路由连接
-        this.connect();
-    },
-    //销毁
-    onDestroy: function onDestroy() {
-        //销毁的时候要断开连接
-        cc.log("销毁了 断开连接");
-        this.disconnect();
-    }
+    onLoad: function onLoad() {}
 
 });
 // called every frame, uncomment this function to activate update callback
 // update: function (dt) {
 
 // },
-
-cc._RFpop();
