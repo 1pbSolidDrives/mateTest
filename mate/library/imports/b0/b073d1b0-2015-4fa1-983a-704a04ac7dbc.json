@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_dataIcon_mvp",
+    "texture": "d8619140-ca42-4728-bad1-5e8b3df7b6a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      54
+    ]
+  }
+}

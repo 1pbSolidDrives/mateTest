@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mt-sng",
+    "texture": "ccd61831-208c-43bb-8b9c-eced6938f2a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      36
+    ]
+  }
+}

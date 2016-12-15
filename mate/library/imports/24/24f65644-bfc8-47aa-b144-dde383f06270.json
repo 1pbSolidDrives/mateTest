@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_icon_chips",
+    "texture": "fcdd5ce2-ca30-46fc-80b9-3ff7ce72b368",
+    "atlas": "",
+    "rect": [
+      12,
+      13,
+      36,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

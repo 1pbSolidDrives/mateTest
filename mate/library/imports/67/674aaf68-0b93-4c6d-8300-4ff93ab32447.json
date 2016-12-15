@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_mttTitle",
+    "texture": "32278ad7-7ca9-40d4-9ad3-ee60d663b582",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      167,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      71
+    ]
+  }
+}

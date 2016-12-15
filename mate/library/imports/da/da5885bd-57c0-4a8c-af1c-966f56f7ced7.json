@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_balloonTriangle_check",
+    "texture": "9556b095-5eb7-4dbd-b5cb-e946820c145e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      18,
+      9
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      18,
+      9
+    ]
+  }
+}

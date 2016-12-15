@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "giftx",
+    "texture": "0dd48244-ec3b-4656-a209-219c17009940",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      248,
+      248
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      248
+    ]
+  }
+}

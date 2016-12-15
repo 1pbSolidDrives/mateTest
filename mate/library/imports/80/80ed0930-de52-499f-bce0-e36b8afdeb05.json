@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "audio_playing_003",
+    "texture": "40f9da87-f6d2-4cd4-824f-3bbf5c75785a",
+    "atlas": "",
+    "rect": [
+      0,
+      6,
+      36,
+      48
+    ],
+    "offset": [
+      -12,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

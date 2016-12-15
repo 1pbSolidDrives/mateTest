@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_balloon_raise",
+    "texture": "3303125c-5868-4639-9019-5598cb405c4c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      63
+    ]
+  }
+}

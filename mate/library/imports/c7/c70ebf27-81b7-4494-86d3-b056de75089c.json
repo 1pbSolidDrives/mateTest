@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_eye",
+    "texture": "d25fde58-02e4-40eb-908e-04b7a4f30613",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      27
+    ]
+  }
+}
