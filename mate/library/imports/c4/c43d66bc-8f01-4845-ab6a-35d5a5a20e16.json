@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_sliderBg_orangeView",
+    "texture": "75b446a7-2397-4cff-9526-135dd7799583",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      840,
+      9
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      840,
+      9
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_actionBtn_raise",
+    "texture": "7bf35b26-c0ad-48b1-a9a1-e3fc0f56a31e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      132
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      132
+    ]
+  }
+}

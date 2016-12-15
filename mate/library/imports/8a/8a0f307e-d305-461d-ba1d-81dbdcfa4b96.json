@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_sliderBtn_orangeKnob",
+    "texture": "20de646d-52fb-45da-942e-61bcaff11ddd",
+    "atlas": "",
+    "rect": [
+      60,
+      60,
+      120,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      240
+    ]
+  }
+}

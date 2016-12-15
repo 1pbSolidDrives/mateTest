@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_alertBtn_arrowUp",
+    "texture": "4332ebf8-e1c3-43f2-b770-a32684d223b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      39,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      24
+    ]
+  }
+}

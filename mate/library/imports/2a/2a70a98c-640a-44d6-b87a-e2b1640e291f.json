@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "safeBox",
+    "texture": "aac5d3cc-c5bf-4e66-a70d-14b5d0093199",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      38
+    ]
+  }
+}

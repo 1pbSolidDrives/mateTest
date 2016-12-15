@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2016-12-15T12:15:20.433Z - normal: Load ~/.CocosCreator/settings.json
 2016-12-15T12:15:20.438Z - normal: checking language setting...
 2016-12-15T12:15:20.438Z - normal: Language: zh
@@ -50,6 +51,59 @@
 2016-12-15T12:15:33.156Z - error: Compile error: Filename conflict, the module "masterlevelScript" both defined in "scripts/A/context/my/masterlevel/masterlevelScript.js" and "new/scripts/P9/context/my/masterlevel/masterlevelScript.js"
     at Stream.<anonymous> (/Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3381)
     at Stream.stream.write (/Users/mac/Documents/cocos/CocosCreator.app/Contents/Resources/app.asar/node_modules/through/index.js:26:11)
+=======
+2016-12-15T12:15:02.865Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-15T12:15:02.874Z - normal: checking language setting...
+2016-12-15T12:15:02.874Z - normal: Language: zh
+2016-12-15T12:15:02.910Z - success: protocol editor-framework registered
+2016-12-15T12:15:02.911Z - success: protocol app registered
+2016-12-15T12:15:02.911Z - success: protocol packages registered
+2016-12-15T12:15:02.912Z - success: protocol theme registered
+2016-12-15T12:15:02.912Z - success: protocol unpack registerred
+2016-12-15T12:15:02.988Z - normal: connected!
+2016-12-15T12:15:02.992Z - normal: Check project /Users/edz/mateTest/mate
+2016-12-15T12:15:02.995Z - normal: Initializing Cocos Creator Editor
+2016-12-15T12:15:03.743Z - normal: Initializing Cocos2d
+2016-12-15T12:15:04.192Z - normal: Initializing Asset Database
+2016-12-15T12:15:04.256Z - success: protocol uuid registerred
+2016-12-15T12:15:04.257Z - success: protocol db registerred
+2016-12-15T12:15:04.257Z - success: protocol thumbnail registerred
+2016-12-15T12:15:04.258Z - normal: Loading editor/builtin packages
+2016-12-15T12:15:04.506Z - success: assets loaded
+2016-12-15T12:15:04.514Z - success: builder loaded
+2016-12-15T12:15:04.524Z - success: hierarchy loaded
+2016-12-15T12:15:04.531Z - success: inspector loaded
+2016-12-15T12:15:04.534Z - success: keystore loaded
+2016-12-15T12:15:04.543Z - success: node-library loaded
+2016-12-15T12:15:04.550Z - success: preferences loaded
+2016-12-15T12:15:04.584Z - success: project-importer loaded
+2016-12-15T12:15:04.591Z - success: project-settings loaded
+2016-12-15T12:15:04.599Z - success: ui-kit loaded
+2016-12-15T12:15:04.610Z - success: ui-grid loaded
+2016-12-15T12:15:04.617Z - success: scene loaded
+2016-12-15T12:15:04.619Z - success: sprite-editor loaded
+2016-12-15T12:15:04.641Z - success: timeline loaded
+2016-12-15T12:15:04.641Z - normal: Loading builtin packages
+2016-12-15T12:15:04.657Z - success: asset-db-debugger loaded
+2016-12-15T12:15:04.660Z - success: cocos-package loaded
+2016-12-15T12:15:04.663Z - success: code-editor loaded
+2016-12-15T12:15:04.666Z - success: color-picker loaded
+2016-12-15T12:15:04.676Z - success: console loaded
+2016-12-15T12:15:04.689Z - success: package-manager loaded
+2016-12-15T12:15:04.712Z - success: tester loaded
+2016-12-15T12:15:04.744Z - success: ui-kit-preview-extra loaded
+2016-12-15T12:15:04.751Z - success: ui-kit-preview loaded
+2016-12-15T12:15:04.758Z - success: ui-tree loaded
+2016-12-15T12:15:04.859Z - normal: Initializing project /Users/edz/mateTest/mate
+2016-12-15T12:15:04.865Z - normal: Loading packages
+2016-12-15T12:15:04.870Z - normal: Watching packages
+2016-12-15T12:15:04.901Z - normal: Run Application
+2016-12-15T12:15:32.746Z - success: preview server running at http://localhost:7456
+2016-12-15T12:15:32.747Z - normal: Compiling scripts...
+2016-12-15T12:15:37.098Z - error: Compile error: Filename conflict, the module "P9CreateSettings" both defined in "scripts/P9/Data/P9CreateSettings.js" and "new/scripts/P9/Data/P9CreateSettings.js"
+    at Stream.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3381)
+    at Stream.stream.write (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/through/index.js:26:11)
+>>>>>>> 6e04f5ad9df4b445460fc443f15c05e7fdea739d
     at Stream.ondata (stream.js:31:26)
     at emitOne (events.js:96:13)
     at Stream.emit (events.js:188:7)
@@ -67,4 +121,9 @@
     at BrowserWindow.g (events.js:286:16)
     at emitOne (events.js:101:20)
     at BrowserWindow.emit (events.js:188:7)
+<<<<<<< HEAD
 2016-12-15T12:15:37.895Z - normal: 1.3.1
+=======
+2016-12-15T12:15:44.675Z - normal: 1.3.1
+2016-12-15T12:17:29.139Z - info: shutdown preview server
+>>>>>>> 6e04f5ad9df4b445460fc443f15c05e7fdea739d

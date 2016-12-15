@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_icon_attention",
+    "texture": "80cc53df-a34b-4ba3-bfc7-a3afe6f2734d",
+    "atlas": "",
+    "rect": [
+      96,
+      72,
+      144,
+      144
+    ],
+    "offset": [
+      0,
+      24
+    ],
+    "originalSize": [
+      336,
+      336
+    ]
+  }
+}

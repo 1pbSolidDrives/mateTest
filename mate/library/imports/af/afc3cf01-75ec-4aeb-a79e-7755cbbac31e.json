@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_icon_diamond",
+    "texture": "440fbe4c-5b69-4ca3-b156-c4cd6e0dcd6d",
+    "atlas": "",
+    "rect": [
+      9,
+      12,
+      42,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

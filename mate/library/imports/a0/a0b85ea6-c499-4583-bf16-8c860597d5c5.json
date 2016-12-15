@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fadeRightImage",
+    "texture": "02f5a6f4-7ac8-4ba4-9029-98c2732912b0",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      155,
+      10
+    ],
+    "offset": [
+      2.5,
+      0
+    ],
+    "originalSize": [
+      160,
+      10
+    ]
+  }
+}

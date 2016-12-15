@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "currency",
+    "texture": "8a005813-eab7-486e-baa0-14475d638bb2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      36
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_vip_MPT_Month",
+    "texture": "5dff7440-f2fb-4cf4-9e07-d171054a8e1d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      960,
+      510
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      960,
+      510
+    ]
+  }
+}

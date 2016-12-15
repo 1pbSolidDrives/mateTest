@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_detailBg_triangle",
+    "texture": "df4bda1f-55ae-4b3c-91e2-aee43310969b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      29,
+      12
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      29,
+      12
+    ]
+  }
+}

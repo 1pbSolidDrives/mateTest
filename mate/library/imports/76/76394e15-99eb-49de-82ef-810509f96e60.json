@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_sliderBtn_blueKnob",
+    "texture": "13f0ef0a-a4a4-440a-aa67-c6be4d349bad",
+    "atlas": "",
+    "rect": [
+      60,
+      60,
+      120,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      240
+    ]
+  }
+}

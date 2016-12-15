@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_dataIcon_tuhao",
+    "texture": "8ab63672-7083-4a4d-9e3e-59a11d249e31",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      54
+    ]
+  }
+}

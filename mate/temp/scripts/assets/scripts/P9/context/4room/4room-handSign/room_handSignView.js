@@ -1,5 +1,9 @@
 "use strict";
+<<<<<<< HEAD
 cc._RFpush(module, '10606fQxaJBt55O9A0IlEi2', 'room_handSignView');
+=======
+cc._RFpush(module, '09353anV5BEhq06NJDZr7Nf', 'room_handSignView');
+>>>>>>> 6e04f5ad9df4b445460fc443f15c05e7fdea739d
 // scripts/P9/context/4room/4room-handSign/room_handSignView.js
 
 var MVC = require("FWS_MVC");

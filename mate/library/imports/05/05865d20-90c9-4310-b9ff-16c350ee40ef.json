@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_sliderBtn_redView",
+    "texture": "86056895-93fe-4b73-bdb1-ac54c6bd6165",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      840,
+      9
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      840,
+      9
+    ]
+  }
+}

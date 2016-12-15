@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_sliderBg_greenValue",
+    "texture": "fdc3f0e6-cfbf-460a-a774-bd028c464b42",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      840,
+      9
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      840,
+      9
+    ]
+  }
+}
