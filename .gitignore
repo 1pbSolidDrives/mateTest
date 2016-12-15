@@ -1,1 +1,5 @@
 *.meta
+.DS_Store
+/library/
+/local/
+/temp/
