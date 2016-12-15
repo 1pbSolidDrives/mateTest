@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_icon_card",
+    "texture": "51780026-d9d6-4746-9a7c-ebc8ae6bf20d",
+    "atlas": "",
+    "rect": [
+      9,
+      13,
+      42,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "insurance Border",
+    "texture": "46d7ac46-09e4-4930-9b77-f91c723fbcc8",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      244,
+      334
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      246,
+      336
+    ]
+  }
+}

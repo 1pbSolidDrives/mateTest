@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_voiceIcon_part3",
+    "texture": "e6ea3552-4c4a-4517-b4db-a6a1555f2ae1",
+    "atlas": "",
+    "rect": [
+      15,
+      9,
+      27,
+      36
+    ],
+    "offset": [
+      1.5,
+      0
+    ],
+    "originalSize": [
+      54,
+      54
+    ]
+  }
+}

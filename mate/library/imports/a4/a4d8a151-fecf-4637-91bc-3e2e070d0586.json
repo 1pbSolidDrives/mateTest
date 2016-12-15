@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_icon_location",
+    "texture": "4bb0c83c-a5de-4cd5-88ff-8c8c5aef6e55",
+    "atlas": "",
+    "rect": [
+      7,
+      3,
+      34,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      48
+    ]
+  }
+}

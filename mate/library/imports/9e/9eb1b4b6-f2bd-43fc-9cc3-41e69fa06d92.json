@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "QRCode_logo",
+    "texture": "e5a6e783-4413-48ef-a38a-79c2cc8af39b",
+    "atlas": "",
+    "rect": [
+      32,
+      32,
+      396,
+      461
+    ],
+    "offset": [
+      5.5,
+      -3
+    ],
+    "originalSize": [
+      449,
+      519
+    ]
+  }
+}

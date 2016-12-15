@@ -1,0 +1,89 @@
+2016-12-15T11:04:52.768Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-15T11:04:52.773Z - normal: checking language setting...
+2016-12-15T11:04:52.774Z - normal: Language: zh
+2016-12-15T11:04:52.805Z - success: protocol editor-framework registered
+2016-12-15T11:04:52.805Z - success: protocol app registered
+2016-12-15T11:04:52.806Z - success: protocol packages registered
+2016-12-15T11:04:52.806Z - success: protocol theme registered
+2016-12-15T11:04:52.806Z - success: protocol unpack registerred
+2016-12-15T11:04:52.905Z - normal: connected!
+2016-12-15T11:04:52.909Z - normal: Check project /Users/edz/Downloads/mateTest/mate
+2016-12-15T11:04:52.911Z - normal: Initializing Cocos Creator Editor
+2016-12-15T11:04:53.437Z - normal: Initializing Cocos2d
+2016-12-15T11:04:53.643Z - normal: Initializing Asset Database
+2016-12-15T11:04:53.667Z - success: protocol uuid registerred
+2016-12-15T11:04:53.667Z - success: protocol db registerred
+2016-12-15T11:04:53.668Z - success: protocol thumbnail registerred
+2016-12-15T11:04:53.668Z - normal: Loading editor/builtin packages
+2016-12-15T11:04:53.836Z - success: assets loaded
+2016-12-15T11:04:53.841Z - success: builder loaded
+2016-12-15T11:04:53.846Z - success: hierarchy loaded
+2016-12-15T11:04:53.852Z - success: inspector loaded
+2016-12-15T11:04:53.853Z - success: keystore loaded
+2016-12-15T11:04:53.858Z - success: node-library loaded
+2016-12-15T11:04:53.862Z - success: preferences loaded
+2016-12-15T11:04:53.884Z - success: project-importer loaded
+2016-12-15T11:04:53.888Z - success: project-settings loaded
+2016-12-15T11:04:53.894Z - success: ui-kit loaded
+2016-12-15T11:04:53.900Z - success: ui-grid loaded
+2016-12-15T11:04:53.906Z - success: scene loaded
+2016-12-15T11:04:53.907Z - success: sprite-editor loaded
+2016-12-15T11:04:53.913Z - success: timeline loaded
+2016-12-15T11:04:53.913Z - normal: Loading builtin packages
+2016-12-15T11:04:53.920Z - success: asset-db-debugger loaded
+2016-12-15T11:04:53.925Z - success: cocos-package loaded
+2016-12-15T11:04:53.928Z - success: code-editor loaded
+2016-12-15T11:04:53.929Z - success: color-picker loaded
+2016-12-15T11:04:53.938Z - success: console loaded
+2016-12-15T11:04:53.945Z - success: package-manager loaded
+2016-12-15T11:04:53.954Z - success: tester loaded
+2016-12-15T11:04:53.958Z - success: ui-kit-preview-extra loaded
+2016-12-15T11:04:53.962Z - success: ui-kit-preview loaded
+2016-12-15T11:04:53.965Z - success: ui-tree loaded
+2016-12-15T11:04:54.011Z - normal: Initializing project /Users/edz/Downloads/mateTest/mate
+2016-12-15T11:04:54.016Z - normal: Loading packages
+2016-12-15T11:04:54.022Z - normal: Watching packages
+2016-12-15T11:04:54.049Z - normal: Run Application
+2016-12-15T11:05:04.132Z - success: preview server running at http://localhost:7458
+2016-12-15T11:05:04.132Z - normal: Compiling scripts...
+2016-12-15T11:05:06.242Z - error: Compile error: Filename conflict, the module "HelloWorld" both defined in "cppJsTestScene/HelloWorld.js" and "resources/script/HelloWorld.js"
+    at Stream.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3381)
+    at Stream.stream.write (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/through/index.js:26:11)
+    at Stream.ondata (stream.js:31:26)
+    at emitOne (events.js:96:13)
+    at Stream.emit (events.js:188:7)
+    at queueData (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:43:21)
+    at next (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:71:7)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:85:7
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:2908
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:2080
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:869)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1262)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2016-12-15T11:05:12.072Z - normal: 1.3.1
+2016-12-15T11:05:52.401Z - error: Compile error: Filename conflict, the module "HelloWorld" both defined in "cppJsTestScene/HelloWorld.js" and "resources/script/HelloWorld.js"
+    at Stream.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3381)
+    at Stream.stream.write (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/through/index.js:26:11)
+    at Stream.ondata (stream.js:31:26)
+    at emitOne (events.js:96:13)
+    at Stream.emit (events.js:188:7)
+    at queueData (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:43:21)
+    at next (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:71:7)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/map-stream/index.js:85:7
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:2908
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:2080
+    at Object.callback (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:869)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1262)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
