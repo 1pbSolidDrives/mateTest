@@ -1,9 +1,5 @@
-"use strict";
-cc._RFpush(module, '79c0d+W/BtL4Kx6il7mjAAh', 'tableScript');
-// scripts/P9/context/4room/a2room-roomWaiting/tableScript.js
-
 cc.Class({
-    "extends": cc.Component,
+    extends: cc.Component,
 
     properties: {
         // foo: {
@@ -19,12 +15,12 @@ cc.Class({
     },
 
     // use this for initialization
-    onLoad: function onLoad() {}
+    onLoad: function () {
 
+    },
+
+    // called every frame, uncomment this function to activate update callback
+    // update: function (dt) {
+
+    // },
 });
-// called every frame, uncomment this function to activate update callback
-// update: function (dt) {
-
-// },
-
-cc._RFpop();

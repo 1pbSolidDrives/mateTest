@@ -1,7 +1,3 @@
-"use strict";
-cc._RFpush(module, '91a0aEecHhKcr1sTNSPeyC6', 'backgroundLayerScript');
-// scripts/P9/context/4room/a2room-roomWaiting/backgroundLayerScript.js
-
 cc.Class({
     "extends": cc.Component,
 
@@ -26,5 +22,3 @@ cc.Class({
 // update: function (dt) {
 
 // },
-
-cc._RFpop();
