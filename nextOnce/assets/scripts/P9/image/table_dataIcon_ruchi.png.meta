@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c08727c8-f822-4e35-856a-d81ec7c1a921",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "table_dataIcon_ruchi": {
+      "ver": "1.0.3",
+      "uuid": "0b3896c1-36fb-43ad-be72-ea4a68b48c47",
+      "rawTextureUuid": "c08727c8-f822-4e35-856a-d81ec7c1a921",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 24,
+      "height": 24,
+      "rawWidth": 24,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

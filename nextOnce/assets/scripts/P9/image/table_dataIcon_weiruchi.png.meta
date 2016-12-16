@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "31fe2004-72c4-4707-a5d5-bd93cce0ae04",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "table_dataIcon_weiruchi": {
+      "ver": "1.0.3",
+      "uuid": "193e8cb8-6769-451b-b510-eb77b19fe670",
+      "rawTextureUuid": "31fe2004-72c4-4707-a5d5-bd93cce0ae04",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 24,
+      "height": 24,
+      "rawWidth": 24,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
